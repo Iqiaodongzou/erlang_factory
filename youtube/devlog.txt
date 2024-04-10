@@ -1,0 +1,19 @@
+update at 2024-04-10 17:32:33
+=====>
+
+https://github.com/JPLeoRX/youtube-download-cli
+
+pip install youtube-download-cli
+
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4"
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" mp4
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" video
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" -o "/Users/leo/Downloads"
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" mp4 -o "/Users/leo/Downloads"
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" video -o "/Users/leo/Downloads"
+
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" mp3
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" audio
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" mp3 -o "/Users/leo/Downloads"
+youtube-download-cli "https://www.youtube.com/watch?v=Fd_3EkGr0-4" audio -o "/Users/leo/Downloads"
+
